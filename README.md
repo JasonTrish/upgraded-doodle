@@ -50,6 +50,14 @@ This is a numbered list
 3. Pepper
 
 
+Paragraphs are very easy; separate them with a blank line. You can write your paragraph on one long line,
+or you can
+wrap the lines yourself
+if you prefer.
+
+This section was marked up like so:
+
+
 
 
 
