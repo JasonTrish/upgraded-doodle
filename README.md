@@ -31,9 +31,26 @@ print s")
 **This text is in bold** and *this is in italics*
 
 
+Bulleted List
+* Bullet 1
+* Bullet 2
+  * Bullet 2a
+  * Bullet 2b
+* Bullet 3
 
-![Cool Nasa "pic of the day"](https://www.nasa.gov/multimedia/imagegallery/iotd.html)
-![image](https://user-images.githubusercontent.com/77632028/117484052-2f2f8f80-af2c-11eb-84a7-b1e16e9cc29a.png)
+Block
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+This is a numbered list
+1. Baked potato
+2. Baked beans
+3. Pepper
+
+
+
 
 
 
